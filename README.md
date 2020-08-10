@@ -1,4 +1,4 @@
-### Hi there, my name is Lucas Jung, aka [Gruvw](https://gruvw.com) 👋
+### Hi there, my name is Lucas Jung, aka [Gruvw](https://gruvw.com) 👋 <img align="right" alt="Gruvw's logo" height="100px" src="https://i.ibb.co/mDmMcRB/gruvw-logo.png" /> 
 
 - 🔭 I’m currently working on my website [gruvw.com](https://gruvw.com)
 - 🌱 I’m currently learning lots of things 😂
