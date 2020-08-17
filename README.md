@@ -26,15 +26,11 @@
 <img align="left" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 <img align="left" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 
----
-
 ### Tools
 
 <img align="left" src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white%22" alt="Visual Studio Code" />
 <img align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
----
 
 ### Others
 
