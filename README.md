@@ -8,10 +8,11 @@
 - 🔭 I’m currently working on my website [gruvw.com](https://gruvw.com)
 - 🌱 I’m currently learning lots of things 😂
 - 💬 Ask me about python
-- 🥅 2020 Goals: 
-  - Create a website to post my past and futur projects
-  - Learn and use GitHub
+- 🥅 2021 Goals: 
+  - Post projects on my website
   - Create a usefull Flutter app with a python backend API
+  - Impove at writting LaTeX
+  - Train management of massive SQL databases
 - 📫 How to reach me: gruvw.dev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started learning how to code at 10 years old.
@@ -37,6 +38,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white%22" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Vim-008080?logo=Vim&logoColor=white&style=for-the-badge" alt="Vim" />
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -47,5 +49,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" alt="Raspberry Pi"/>
 </p>
 
