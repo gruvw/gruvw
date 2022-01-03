@@ -8,11 +8,10 @@
 - 🔭 I’m currently working on my website [gruvw.com](https://gruvw.com)
 - 🌱 I’m currently learning lots of things 😂
 - 💬 Ask me about python
-- 🥅 2021 Goals: 
+- 🥅 2022 Goals: 
   - Post projects on my website
   - Create a usefull Flutter app with a python backend API
-  - Impove at writting LaTeX
-  - Train management of massive SQL databases
+  - Learn more C
 - 📫 How to reach me: gruvw.dev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started learning how to code at 10 years old.
