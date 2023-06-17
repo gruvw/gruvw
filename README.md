@@ -1,10 +1,10 @@
 ### Lucas Jung, aka [Gruvw](https://gruvw.com) 👋 <img align="right" alt="Gruvw's logo" height="200px" src="https://i.ibb.co/mDmMcRB/gruvw-logo.png" /> 
 
-- 🔭 I’m currently working on Flutter apps
-- 🌱 I’m currently learning Rust 🦀
-- 💬 Ask me about Python 🐍
+- 🔭 I’m currently working on [Flutter](https://flutter.dev/) applications
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) 🦀
+- 💬 Ask me about [Python](https://www.python.org/) 🐍
 - 🥅 2023 Goals:
-  - Post projects on my website
+  - Post projects on my website: [gruvw.com](https://gruvw.com/projects)
   - Carry on the development of [OpenItems](https://github.com/Open-Items/open-items) and start building the Rust backend
   - Finish the [0byte](https://github.com/gruvw/0byte) application
 - 📫 How to reach me: gruvw.dev@gmail.com
@@ -20,9 +20,9 @@
   <img src="https://img.shields.io/badge/python%20-black.svg?&style=for-the-badge&logo=python&logoColor=%234B8BBE" alt="Python" />
   <img src="https://img.shields.io/badge/rust%20-black.svg?&style=for-the-badge&logo=rust&logoColor=%23CE422B" alt="Rust" />
   <img src="https://img.shields.io/badge/dart-black.svg?&style=for-the-badge&logo=dart&logoColor=%230175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/c%20-black.svg?&style=for-the-badge&logo=c&logoColor=%23A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/java-black.svg?&style=for-the-badge&logo=openjdk&logoColor=%235382a1" alt="Java" />
+  <img src="https://img.shields.io/badge/java-black.svg?&style=for-the-badge&logo=openjdk&logoColor=%23f89820" alt="Java" />
   <img src="https://img.shields.io/badge/scala-black.svg?&style=for-the-badge&logo=scala&logoColor=%23DC322F" alt="Scala" />
+  <img src="https://img.shields.io/badge/c%20-black.svg?&style=for-the-badge&logo=c&logoColor=%23017dc6" alt="C" />
   <img src="https://img.shields.io/badge/LaTeX%20-black.svg?&style=for-the-badge&logo=latex&logoColor=%23008080" alt="LaTeX" />
   <img src="https://img.shields.io/badge/php-black.svg?&style=for-the-badge&logo=php&logoColor=%23777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/html5%20-black.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" />
@@ -45,11 +45,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/flask%20-black.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-black.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=%23C51A4A" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-black.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=%23e61e7a" alt="Raspberry Pi"/>
   <img src="https://img.shields.io/badge/Arduino%20-black.svg?&style=for-the-badge&logo=arduino&logoColor=%2300979D" alt="Arduino" />
-  <img src ="https://img.shields.io/badge/sqlite-black.svg?&style=for-the-badge&logo=sqlite&logoColor=%2307405e" alt="SQLite" />
+  <img src ="https://img.shields.io/badge/sqlite-black.svg?&style=for-the-badge&logo=sqlite&logoColor=%234da5d7" alt="SQLite" />
   <img src="https://img.shields.io/badge/mongodb-black.svg?&style=for-the-badge&logo=mongodb&logoColor=%2347A248" alt="MongoDb" />
-  <img src="https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23D82C20" alt="Redis" />
+  <img src="https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23d9392e" alt="Redis" />
   <img src="https://img.shields.io/badge/apache%20-black.svg?&style=for-the-badge&logo=apache&logoColor=%23D42029" alt="Apache" />
 </p>
 
