@@ -52,3 +52,19 @@
   <img src="https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23D82C20" alt="Redis" />
   <img src="https://img.shields.io/badge/apache%20-black.svg?&style=for-the-badge&logo=apache&logoColor=%23D42029" alt="Apache" />
 </p>
+
+---
+
+<details>
+  <summary>GitHub statistics</summary>
+  <p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gruvw&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=gruvw&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gruvw&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gruvw&langs_count=8&layout=compact&hide_border=true&hide=vim%20script&theme=github_dark" />
+  </p>
+</details>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=gruvw&style=for-the-badge&color=brightgreen" />
+</p>
