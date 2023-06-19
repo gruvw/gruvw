@@ -1,15 +1,15 @@
-### Lucas Jung, aka [Gruvw](https://gruvw.com) 👋 <img align="right" alt="Gruvw's logo" height="200px" src="https://i.ibb.co/mDmMcRB/gruvw-logo.png" /> 
+### Lucas Jung, aka <a href="https://gruvw.com" target="_blank">Gruvw</a> 👋 <img align="right" alt="Gruvw's logo" height="200px" src="https://i.ibb.co/mDmMcRB/gruvw-logo.png" /> 
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev/) applications
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) 🦀
-- 💬 Ask me about [Python](https://www.python.org/) 🐍
+- 🔭 I’m currently working on <a href="https://flutter.dev/" target="_blank">Flutter</a> applications
+- 🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="_blank">Rust</a> 🦀
+- 💬 Ask me about <a href="https://www.python.org/" target="_blank">Python</a> 🐍
 - 🥅 2023 Goals:
-  - Post projects on my website: [gruvw.com](https://gruvw.com/projects)
-  - Carry on the development of [OpenItems](https://github.com/Open-Items/open-items) and start building the Rust backend
-  - Finish the [0byte](https://github.com/gruvw/0byte) application
+  - Post projects on my website: <a href="https://gruvw.com/projects" target="_blank">gruvw.com</a>
+  - Carry on the development of <a href="https://github.com/Open-Items/open-items" target="_blank">OpenItems</a> and start building the Rust backend
+  - Finish the <a href="https://github.com/gruvw/0byte" target="_blank">0byte</a> application
 - 📫 How to reach me: gruvw.dev@gmail.com
 - 😄 Pronouns: He/Him
-- 🖥️ Operating System: Linux, [Qtile](https://github.com/qtile/qtile/) (see my [dotfiles](https://github.com/gruvw/dotfiles))
+- 🖥️ Operating System: Linux, <a href="https://github.com/qtile/qtile/" target="_blank">Qtile</a> (see my <a href="https://github.com/gruvw/dotfiles" target="_blank">dotfiles</a>)
 - ⚡ Fun fact: I started learning programming at 10 years old.
 
 ---
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/php-black.svg?&style=for-the-badge&logo=php&logoColor=%23777BB4" alt="PHP" />
   <img src="https://img.shields.io/badge/html5%20-black.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3%20-black.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7df1e" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7df1e" alt="JavaScript" />
 </p>
 
 ### Tools
@@ -63,8 +63,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gruvw&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gruvw&langs_count=8&layout=compact&hide_border=true&hide=vim%20script&theme=github_dark" />
   </p>
-</details>
-
-<p align="center">
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=gruvw&style=for-the-badge&color=brightgreen" />
-</p>
+  </p>
+</details>
