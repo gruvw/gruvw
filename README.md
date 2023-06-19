@@ -17,40 +17,40 @@
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/python%20-black.svg?&style=for-the-badge&logo=python&logoColor=%234B8BBE" alt="Python" />
-  <img src="https://img.shields.io/badge/rust%20-black.svg?&style=for-the-badge&logo=rust&logoColor=%23CE422B" alt="Rust" />
-  <img src="https://img.shields.io/badge/dart-black.svg?&style=for-the-badge&logo=dart&logoColor=%230175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/java-black.svg?&style=for-the-badge&logo=openjdk&logoColor=%23f89820" alt="Java" />
-  <img src="https://img.shields.io/badge/scala-black.svg?&style=for-the-badge&logo=scala&logoColor=%23DC322F" alt="Scala" />
-  <img src="https://img.shields.io/badge/c%20-black.svg?&style=for-the-badge&logo=c&logoColor=%23017dc6" alt="C" />
-  <img src="https://img.shields.io/badge/LaTeX%20-black.svg?&style=for-the-badge&logo=latex&logoColor=%23008080" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/php-black.svg?&style=for-the-badge&logo=php&logoColor=%23777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/html5%20-black.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3%20-black.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7df1e" alt="JavaScript" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python%20-black.svg?&style=for-the-badge&logo=python&logoColor=%234B8BBE" alt="Python" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/rust%20-black.svg?&style=for-the-badge&logo=rust&logoColor=%23CE422B" alt="Rust" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/dart-black.svg?&style=for-the-badge&logo=dart&logoColor=%230175C2" alt="Dart" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-black.svg?&style=for-the-badge&logo=openjdk&logoColor=%23f89820" alt="Java" /></a>
+  <a href="https://www.scala-lang.org/" target="_blank"><img src="https://img.shields.io/badge/scala-black.svg?&style=for-the-badge&logo=scala&logoColor=%23DC322F" alt="Scala" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/c%20-black.svg?&style=for-the-badge&logo=c&logoColor=%23017dc6" alt="C" /></a>
+  <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/LaTeX%20-black.svg?&style=for-the-badge&logo=latex&logoColor=%23008080" alt="LaTeX" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-black.svg?&style=for-the-badge&logo=php&logoColor=%23777BB4" alt="PHP" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/html5%20-black.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.shields.io/badge/css3%20-black.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6" alt="CSS3" /></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript%20-black.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7df1e" alt="JavaScript" /></a>
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Vim-black?logo=Vim&logoColor=008080&style=for-the-badge" alt="Vim" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-black.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/markdown-black.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=%23F05033" alt="Git" />
-  <img src="https://img.shields.io/badge/github%20-black.svg?&style=for-the-badge&logo=github&logoColor=%23e8eaea" alt="GitHub" />
-  <img src="https://img.shields.io/badge/brave-black.svg?&style=for-the-badge&logo=brave&logoColor=%23FB542B" alt="Brave" />
+  <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/Vim-black?logo=Vim&logoColor=008080&style=for-the-badge" alt="Vim" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-black.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC" alt="Visual Studio Code" /></a>
+  <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://img.shields.io/badge/markdown-black.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=%23F05033" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github%20-black.svg?&style=for-the-badge&logo=github&logoColor=%23e8eaea" alt="GitHub" /></a>
+  <a href="https://brave.com/" target="_blank"><img src="https://img.shields.io/badge/brave-black.svg?&style=for-the-badge&logo=brave&logoColor=%23FB542B" alt="Brave" /></a>
 </p>
 
 ### Others
 
 <p>
-  <img src="https://img.shields.io/badge/flask%20-black.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-black.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=%23e61e7a" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/Arduino%20-black.svg?&style=for-the-badge&logo=arduino&logoColor=%2300979D" alt="Arduino" />
-  <img src ="https://img.shields.io/badge/sqlite-black.svg?&style=for-the-badge&logo=sqlite&logoColor=%234da5d7" alt="SQLite" />
-  <img src="https://img.shields.io/badge/mongodb-black.svg?&style=for-the-badge&logo=mongodb&logoColor=%2347A248" alt="MongoDb" />
-  <img src="https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23d9392e" alt="Redis" />
-  <img src="https://img.shields.io/badge/apache%20-black.svg?&style=for-the-badge&logo=apache&logoColor=%23D42029" alt="Apache" />
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/flask%20-black.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://img.shields.io/badge/Raspberry%20Pi-black.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=%23e61e7a" alt="Raspberry Pi"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino%20-black.svg?&style=for-the-badge&logo=arduino&logoColor=%2300979D" alt="Arduino" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src ="https://img.shields.io/badge/sqlite-black.svg?&style=for-the-badge&logo=sqlite&logoColor=%234da5d7" alt="SQLite" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/mongodb-black.svg?&style=for-the-badge&logo=mongodb&logoColor=%2347A248" alt="MongoDB" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23d9392e" alt="Redis" /></a>
+  <a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/apache%20-black.svg?&style=for-the-badge&logo=apache&logoColor=%23D42029" alt="Apache" /></a>
 </p>
 
 ---
