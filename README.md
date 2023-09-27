@@ -5,7 +5,7 @@
 - 💬 Ask me about <a href="https://www.python.org/" target="_blank">Python</a> 🐍
 - 🥅 2023 Goals:
   - Post projects on my website: <a href="https://gruvw.com/projects" target="_blank">gruvw.com</a>
-  - Carry on the development of <a href="https://github.com/Open-Items/open-items" target="_blank">OpenItems</a> and start building the Rust backend
+  - Carry on the development of <a href="https://github.com/gruvw/open_items" target="_blank">OpenItems</a> and start building the Rust backend
   - Finish the <a href="https://github.com/gruvw/0byte" target="_blank">0byte</a> application
 - 📫 How to reach me: gruvw.dev@gmail.com
 - 😄 Pronouns: He/Him
