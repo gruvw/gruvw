@@ -3,10 +3,11 @@
 - 🔭 I’m currently working on <a href="https://flutter.dev/" target="_blank">Flutter</a> applications
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="_blank">Rust</a> 🦀
 - 💬 Ask me about <a href="https://www.python.org/" target="_blank">Python</a> 🐍
-- 🥅 2023 Goals:
+- 🥅 2024 Goals:
   - Post projects on my website: <a href="https://gruvw.com/projects" target="_blank">gruvw.com</a>
   - Carry on the development of <a href="https://github.com/Open-Items/open-items" target="_blank">OpenItems</a> and start building the Rust backend
   - Finish the <a href="https://github.com/gruvw/0byte" target="_blank">0byte</a> application
+  - Applied embedded Rust on ESP32
 - 📫 How to reach me: gruvw.dev@gmail.com
 - 😄 Pronouns: He/Him
 - 🖥️ Operating System: Linux, <a href="https://github.com/qtile/qtile/" target="_blank">Qtile</a> (see my <a href="https://github.com/gruvw/dotfiles" target="_blank">dotfiles</a>)
@@ -56,7 +57,7 @@
 ---
 
 <details>
-  <summary>GitHub statistics</summary>
+  <summary><strong>GitHub statistics</strong> (click to expand)</summary>
   <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gruvw&theme=github_dark" />
   <img src="https://streak-stats.demolab.com?user=gruvw&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat" />
