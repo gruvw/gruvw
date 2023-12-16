@@ -34,8 +34,8 @@
 ### Tools
 
 <p>
-  <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/Vim-black?logo=Vim&logoColor=008080&style=for-the-badge" alt="Vim" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-black.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC" alt="Visual Studio Code" /></a>
+  <a href="https://neovim.io/" target="_blank"><img src="https://img.shields.io/badge/neovim-black?logo=Neovim&logoColor=57A143&style=for-the-badge" alt="Neovim" /></a>
+  <!-- <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-black.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%23007ACC" alt="Visual Studio Code" /></a> Hi there ! I am no longer using this proprietary bloated editor :) call me elitist idc -->
   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://img.shields.io/badge/markdown-black.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=%23F05033" alt="Git" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github%20-black.svg?&style=for-the-badge&logo=github&logoColor=%23e8eaea" alt="GitHub" /></a>
