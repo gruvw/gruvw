@@ -58,7 +58,7 @@
 
 <details>
   <summary><strong>GitHub statistics</strong> (click to expand)</summary>
-  <p>
+  <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gruvw&theme=github_dark" />
   <img src="https://streak-stats.demolab.com?user=gruvw&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gruvw&theme=github_dark" />
