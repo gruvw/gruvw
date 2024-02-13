@@ -5,12 +5,12 @@
 - 💬 Ask me about <a href="https://www.python.org/" target="_blank">Python</a> 🐍
 - 🥅 2024 Goals:
   - Post projects on my website: <a href="https://gruvw.com/projects" target="_blank">gruvw.com</a>
-  - Carry on the development of <a href="https://github.com/gruvw/open_items" target="_blank">OpenItems</a> and start building the Rust backend
+  - Carry on the development of <a href="https://github.com/gruvw/open_items" target="_blank">Open-Items</a> and start building the Rust backend
   - Finish the <a href="https://github.com/gruvw/0byte" target="_blank">0byte</a> application
   - Applied embedded Rust on ESP32
 - 📫 How to reach me: gruvw.dev@gmail.com
 - 😄 Pronouns: He/Him
-- 🖥️ Operating System: Linux, <a href="https://github.com/qtile/qtile/" target="_blank">Qtile</a> (see my <a href="https://github.com/gruvw/dotfiles" target="_blank">dotfiles</a>)
+- 🖥️ Operating System: Linux, <a href="https://github.com/qtile/qtile/" target="_blank">Qtile</a> (see my <a href="https://github.com/gruvw/dotfiles" target="_blank">.dotfiles</a>)
 - ⚡ Fun fact: I started learning programming at 10 years old.
 
 ---
