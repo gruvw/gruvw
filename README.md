@@ -68,3 +68,7 @@
     <img src="https://komarev.com/ghpvc/?username=gruvw&style=for-the-badge&color=brightgreen" />
   </p>
 </details>
+
+---
+
+<p align="center"><b>Note</b>: archived projects are considered done, not abandoned.</p>
