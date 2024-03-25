@@ -10,7 +10,7 @@
   - Applied embedded Rust on ESP32
 - 📫 How to reach me: gruvw.dev@gmail.com
 - 😄 Pronouns: He/Him
-- 🖥️ Operating System: Linux, <a href="https://github.com/qtile/qtile/" target="_blank">Qtile</a> (see my <a href="https://github.com/gruvw/dotfiles" target="_blank">.dotfiles</a>)
+- 🖥️ Operating System: GNU/Linux, Debian, <a href="https://github.com/qtile/qtile/" target="_blank">Qtile</a> (see my <a href="https://github.com/gruvw/dotfiles" target="_blank">.dotfiles</a>)
 - ⚡ Fun fact: I started learning programming at 10 years old.
 
 ---
@@ -71,4 +71,4 @@
 
 ---
 
-<p align="center"><b>Note</b>: archived projects are considered done, not abandoned.</p>
+<p align="center"><b>Note</b>: (most) archived projects are considered done, not abandoned.</p>
