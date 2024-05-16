@@ -1,6 +1,6 @@
-### Lucas Jung, aka <a href="https://gruvw.com" target="_blank">Gruvw</a> 👋 <img align="right" alt="Gruvw's logo" height="200px" src="https://i.ibb.co/mDmMcRB/gruvw-logo.png" /> 
+### Lucas Jung, aka <a href="https://gruvw.com" target="_blank">gruvw</a> 👋 <img align="right" alt="Gruvw's logo" height="200px" src="https://i.ibb.co/mDmMcRB/gruvw-logo.png" /> 
 
-- 🔭 I’m currently working on <a href="https://flutter.dev/" target="_blank">Flutter</a> applications
+- 🔭 I’m currently working on <a href="https://flutter.dev/" target="_blank">Flutter</a> applications 🎯
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="_blank">Rust</a> 🦀
 - 💬 Ask me about <a href="https://www.python.org/" target="_blank">Python</a> 🐍
 - 🥅 2024 Goals:
@@ -68,7 +68,3 @@
     <img src="https://komarev.com/ghpvc/?username=gruvw&style=for-the-badge&color=brightgreen" />
   </p>
 </details>
-
----
-
-<p align="center"><b>Note</b>: (most) archived projects are considered done, not abandoned.</p>
