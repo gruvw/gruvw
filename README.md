@@ -19,11 +19,12 @@
 
 <p>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python%20-black.svg?&style=for-the-badge&logo=python&logoColor=%234B8BBE" alt="Python" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/c%20-black.svg?&style=for-the-badge&logo=c&logoColor=%23017dc6" alt="C" /></a>
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/rust%20-black.svg?&style=for-the-badge&logo=rust&logoColor=%23CE422B" alt="Rust" /></a>
   <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/dart-black.svg?&style=for-the-badge&logo=dart&logoColor=%230175C2" alt="Dart" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-black.svg?&style=for-the-badge&logo=openjdk&logoColor=%23f89820" alt="Java" /></a>
   <a href="https://www.scala-lang.org/" target="_blank"><img src="https://img.shields.io/badge/scala-black.svg?&style=for-the-badge&logo=scala&logoColor=%23DC322F" alt="Scala" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/c%20-black.svg?&style=for-the-badge&logo=c&logoColor=%23017dc6" alt="C" /></a>
+  <a href="https://lua.org/" target="_blank"><img src="https://img.shields.io/badge/lua-black.svg?style=for-the-badge&logo=lua&logoColor=%235857FF" alt="Lua" /></a>
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/LaTeX%20-black.svg?&style=for-the-badge&logo=latex&logoColor=%23008080" alt="LaTeX" /></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-black.svg?&style=for-the-badge&logo=php&logoColor=%23777BB4" alt="PHP" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/html5%20-black.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" /></a>
@@ -39,6 +40,7 @@
   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://img.shields.io/badge/markdown-black.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git%20-black.svg?&style=for-the-badge&logo=git&logoColor=%23F05033" alt="Git" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github%20-black.svg?&style=for-the-badge&logo=github&logoColor=%23e8eaea" alt="GitHub" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed" alt="Docker" /></a>
   <a href="https://brave.com/" target="_blank"><img src="https://img.shields.io/badge/brave-black.svg?&style=for-the-badge&logo=brave&logoColor=%23FB542B" alt="Brave" /></a>
 </p>
 
