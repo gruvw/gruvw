@@ -3,11 +3,10 @@
 - 🔭 I’m currently working on <a href="https://flutter.dev/" target="_blank">Flutter</a> applications 🎯
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="_blank">Rust</a> 🦀
 - 💬 Ask me about <a href="https://www.python.org/" target="_blank">Python</a> 🐍
-- 🥅 2024 Goals:
-  - Post projects on my website: <a href="https://gruvw.com/projects" target="_blank">gruvw.com</a>
-  - Carry on the development of <a href="https://github.com/gruvw/open_items" target="_blank">Open-Items</a> and start building the Rust backend
-  - Finish the <a href="https://github.com/gruvw/0byte" target="_blank">0byte</a> application
-  - Applied embedded Rust on ESP32
+- 🥅 2025 Goals:
+  - Finish the <a href="https://github.com/gruvw/numly" target="_blank">Numly</a> application
+  - Rework and post projects on my website: <a href="https://gruvw.com/projects" target="_blank">gruvw.com</a>
+  - Carry on the development of <a href="https://github.com/gruvw/open_items" target="_blank">Open-Items</a>
 - 📫 How to reach me: gruvw.dev@gmail.com
 - 😄 Pronouns: He/Him
 - 🖥️ Operating System: GNU/Linux, Debian, <a href="https://github.com/qtile/qtile/" target="_blank">Qtile</a> (see my <a href="https://github.com/gruvw/dotfiles" target="_blank">.dotfiles</a>)
