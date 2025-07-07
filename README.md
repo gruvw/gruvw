@@ -1,4 +1,4 @@
-### Lucas Jung, aka <a href="https://gruvw.com" target="_blank">gruvw</a> 👋 <img align="right" alt="Gruvw's logo" height="200px" src="https://i.ibb.co/mDmMcRB/gruvw-logo.png" /> 
+### Lucas Jung, aka <a href="https://gruvw.com" target="_blank">gruvw</a> 👋
 
 - 🔭 I’m currently working on <a href="https://flutter.dev/" target="_blank">Flutter</a> applications 🎯
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="_blank">Rust</a> 🦀
